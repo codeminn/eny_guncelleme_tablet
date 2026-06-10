@@ -1,2 +1,2 @@
-1.0
-https://github.com/codeminn/eny_guncelleme_tablet/releases/download/v1.0/ENY_Otomasyon_Kurulum.exe
+1.1
+https://github.com/codeminn/eny_guncelleme_tablet/releases/download/v1.1/ENY_Otomasyon_Kurulum.exe
